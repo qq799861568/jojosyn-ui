@@ -1,0 +1,14 @@
+.blog,
+.blog-title,
+.blog-content,
+.header,
+.aside,
+.main,
+.footer {
+    /* outline: 2px solid blue; */
+
+}
+
+* {
+    background-color: #ffffff; /* 你想要的背景颜色 */
+  }
